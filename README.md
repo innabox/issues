@@ -39,6 +39,7 @@ jq -r '
 - [question](https://github.com/search?q=org%3Ainnabox+label%3Aquestion+state%3Aopen&type=issues) -- Further information is requested
 - [refactoring](https://github.com/search?q=org%3Ainnabox+label%3Arefactoring+state%3Aopen&type=issues) -- Refactor existing code
 - [research](https://github.com/search?q=org%3Ainnabox+label%3Aresearch+state%3Aopen&type=issues) -- This will consist mostly of information gathering
+- [security](https://github.com/search?q=org%3Ainnabox+label%3Asecurity+state%3Aopen&type=issues) -- This is a security issue
 - [technicaldebt](https://github.com/search?q=org%3Ainnabox+label%3Atechnicaldebt+state%3Aopen&type=issues) -- Fixing this will reduce technical debt
 - [upstream](https://github.com/search?q=org%3Ainnabox+label%3Aupstream+state%3Aopen&type=issues) -- This is a bug in a product on which we depend
 - [wontfix](https://github.com/search?q=org%3Ainnabox+label%3Awontfix+state%3Aopen&type=issues) -- This will not be worked on
